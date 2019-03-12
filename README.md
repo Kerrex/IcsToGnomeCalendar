@@ -54,7 +54,7 @@ It's pretty complicated for now but I'm going to simplify it soon:
     
             gnome-calendar --debug
         
-    3. Find line similar to and save SomeRandomCode somewhere
+    3. Find line similar to the following and save SomeRandomCode somewhere
     
             15:45:20.0714               GcalManager:    DEBUG: Source YourCalendarName (SomeRandomCode) connected
             
