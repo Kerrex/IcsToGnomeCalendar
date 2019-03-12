@@ -4,6 +4,9 @@ IcsToGnomeCalendar is a simple utility to add ICS file to GnomeCalendar.
 # Why?
 It's actually pretty useful if you find Evolution or Thunderbird too ugly to use some other email client (i.e. Mailspring) which hasn't got calendar integration or just prefer Gnome Calendar over other external tools
 
+# Requirements
+Linux with gnome or gnome-like environment (worked on Budgie) with `gnome-calendar` installed
+
 # Installation
 It's pretty complicated for now but I'm going to simplify it soon:
   * Install python3 and pyyaml:
