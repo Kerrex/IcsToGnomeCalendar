@@ -83,3 +83,9 @@ It's pretty complicated for now but I'm going to simplify it soon:
             test/calendar=AddToGnomeCalendar.desktop
             
     8. Done! Any opened ics file should automatically add to your calendar! 
+ 
+ 
+# TODO
+ * Some more testing, since the only ICS files I used were created by Ms Outlook
+ * Simplify installation process
+ * Probably rewrite to Rust and add ICS preview before actually adding it to calendar
